@@ -16,9 +16,12 @@
 
 ## My GitHub Stats
 
-| | |
-| :---: | :---: |
-| <a href="https://github.com/Pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api?username=novafluz&show_icons=true&theme=synthwave&rank_icon=github&ring_color=2b213a&hide=issues,contribs&show=reviews,prs_merged" height="195" /></a> | <a href="https://github.com/Pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=novafluz&theme=synthwave" height="195" /></a> |
+<a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=novafluz&show_icons=true&theme=synthwave&rank_icon=github&ring_color=2b213a&hide=issues,contribs&show=reviews,prs_merged" height="195" />
+</a>
+<a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=novafluz&theme=synthwave" height="195" />
+</a>
 
 ## Technologies I've used: 
 
