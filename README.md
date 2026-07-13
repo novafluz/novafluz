@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&duration=5110&pause=1100&startDelay=0&color=52D7F7&center=true&vCenter=true&width=1000&lines=Hi+there+👋.+I’m+nova)](https://git.io/typing-svg)
 =============================================================================================================================
 
-* ✉️  You can contact me at [novafluz@gmail.com](mailto:novafluz@gmail.com)
+* ✉️  You can contact me at [duyhungnv09@gmail.com](mailto:duyhungnv09@gmail.com)
 
 ## Socials
 
